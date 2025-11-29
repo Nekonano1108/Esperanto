@@ -5,4 +5,4 @@
 
 Lernregistro de japana denaskulo (monolingva) pri Esperanto.
 
-# どゆこと？
+# 調整中
