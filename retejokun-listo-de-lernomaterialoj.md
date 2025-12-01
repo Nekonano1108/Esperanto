@@ -34,7 +34,12 @@
 
 |サイト名（提供者）|内容|形式|補足|
 |--|--|--|--|
-|<a href="https://www.youtube.com/@EsperantoUSA/playlists" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">La 7a Usona Bona Film-Festivalo!</a>など<br>EsperantoUSA|エスペラント語で作られた映像作品コンテストの出場作品集<br>毎年たくさんの人が応募してるみたい|youtube<br>再生リスト|翻訳「エスペラント語」が設定できる動画群<br>Language Reactorなどのクローム拡張機能と併用可<br>(エスペラント字幕と日本語訳字幕を並べて見られる)|
+|<a href="https://www.3zzz.com.au/shows/esperanto/" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">la radiostacio 3ZZZ</a><br>|エスペラントによるラジオ番組|ネットラジオ|毎週月曜13時～14時(1h)<br>トークも音楽もある|
+|<a href="https://pola-retradio.org/?s=esperanto" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">Pola RetRadio nia komuna lingvomedio</a><br>|エスペラントによる講義などの音声データ|ネットラジオ|いくつかは字幕テキストがある|
+|<a href="https://www.podkasto.net" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">ワルシャワ風力放送</a><br>viavento|毎回テーマが違うインタビューのようなトーク番組|ネットラジオ|内容一覧文章もある|
+|<a href="https://www.youtube.com/@EsperantoUSA/playlists" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">La 7a Usona Bona Film-Festivalo!</a>など<br>EsperantoUSA|エスペラントで作られた映像作品コンテストの出場作品集<br>毎年たくさんの人が応募してるみたい|youtube<br>再生リスト|翻訳「エスペラント語」が設定できる動画群<br>Language Reactorなどのクローム拡張機能と併用可<br>(エスペラント字幕と日本語訳字幕を並べて見られる)|
+|<a href="https://www.youtube.com/playlist?list=PLSDbbqExWNDqWSYE5qYeEuK45x-LprdpX" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">Kantoj de esperanto</a><br>Verda korako|エスペラント歌の作品集<br>1300曲くらいある|youtube<br>再生リスト|翻訳「エスペラント語」が設定できる動画もある<br>この方、再生リストを大量に作ってる|
+|<a href="https://www.youtube.com/playlist?list=PLHU-vW5ti_DJ598Zu2ccn8r_gRDl8H_nw" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">Esperanto Vlogs</a><br>Evildea|エスペラントによるVログ|youtube<br>再生リスト|翻訳「エスペラント語」が設定できる<br>快活なトーク|
 |<a href="https://www.lingq.com/ja/" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">LingQ</a><br>LingQ Languages Ltd.|学習言語の教材(文章（.txt・webpage・EPUB）・音声・動画字幕)<br>を指定し、専用ビューで見られるサービス。<br>単語の意味がすぐ見られる辞書機能がある。|ウェブサイト|無課金も可|
 |<a href="https://www.youtube.com/watch?v=RG7LvzLMnmw" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">200フレーズ - エスペラント語 - 日本語</a><br>Learning Phrases with Chris & Friends|短文をエスペラント語と日本語で紹介|youtube|1時間17分くらいの動画|
 
@@ -50,10 +55,11 @@
 
 |サイト名（提供者）|内容|形式|補足|
 |--|--|--|--|
+|<a href="https://vortaro.jp/" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">23万語を収録したエスペラント辞典 Kajero</a>|||情報量多い（引用元の一つの「PEJV」は、下記の実用エスペラント小辞典のこと）|
 |<a href="https://ja.glosbe.com/eo/ja" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">Glosbe</a>|||訳自体は少ないが、翻訳メモリ（例文）が充実|
 |<a href="https://www.deepl.com/ja/translator" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">DeepL</a>|||アプリ有り　ベータ版（接尾辞などは弱い）<br>エスペラント語→日本語の直訳っぽい|
 |<a href="https://translate.google.com/?sl=eo&tl=ja&op=translate" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">google翻訳</a>|||アプリ有り 翻訳経由は、<br>エスペラント語→英語→日本語との噂有り|
-|<a href="https://www.vastalto.com/pejv/" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">実用エスペラント小辞典　《第１.８版》</a>|||内容が非常に充実していて見やすい<br>日本での鉄板 掲示板はhttp://|
+|<a href="https://www.vastalto.com/pejv/" target="_blank" rel="noopener noreferrer" referrerpolicy="no-referrer">実用エスペラント小辞典　《第１.８版》</a>|||日本での鉄板 掲示板は「http://」|
 
 
 ※ いい作りのサイトであっても「http://」のサイト、もしくはそこへのリンクがあるサイトは、（辞書以外）敬遠しました。
